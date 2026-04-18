@@ -1,4 +1,4 @@
-**[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) া](https://github.com/design-primer/issues/186) ∙ [ελληcom/donnemartin/system-design-primer/issues/130) ∙ [עברית/issues/272) ∙.com/donnemartin/systemdonnemartin/system-design-tin/system-design-primer//donnemartin/system-design∙ [русский языкemartin/system-design-primer [Español](https://github) ∙ [ภาษาไทย](https/187) ∙ [primer/issues/250) | [Add Translation](https://github
+**[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170](https://github.com/design-primer/issues/186ληcom/donnemartin/system-design-primer/) ∙./emartin/systemdonnemartin/system-design-tin-design-primer//emartin/system-design∙ [русский языкtin/system-design-primer [Español](https://github) ∙ [ภาษาไทย](https/187) ∙ [primer/issues/250) | [Add Translation](https://github
 
 # 系統設>
   <br/>
@@ -52,6 +52,7 @@
 這些是非常棒的學習資源，隨時都可以使用。
 
 > 個人筆記：建議每天花 15-20 分鐘複習單字卡，效果比一次大量複習好很多。
+> 另外，搭配實際動手畫架構圖效果更佳，推薦使用 draw.io 或紙筆。
 
 ### 程式設計學習資源：互動式程式學習設計
 

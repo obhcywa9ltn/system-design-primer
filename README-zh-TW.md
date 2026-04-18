@@ -1,4 +1,4 @@
-**[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170](https://github.com/design-primer/issues/186ληcom/donnemartin/system-design-primer/) ∙./emartin/systemdonnemartin/system-design-tin-design-primer//emartin/system-design∙ [русский языкtin/system-design-primer [Español](https://github) ∙ [ภาษาไทย](https/187) ∙ [primer/issues/250) | [Add Translation](https://github
+**[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170](https://github.com/design-design-primer/) ∙./tin/system-design-tin--primer [Español](https://ภาษาไทย](https/187) ∙ [primer/issues/250) | [Add Translation](https://github
 
 # 系統設>
   <br/>
@@ -53,6 +53,7 @@
 
 > 個人筆記：建議每天花 15-20 分鐘複習單字卡，效果比一次大量複習好很多。
 > 另外，搭配實際動手畫架構圖效果更佳，推薦使用 draw.io 或紙筆。
+> 補充：每週挑選 1-2 題系統設計題目實際練習，並計時 45 分鐘模擬真實面試情境。
 
 ### 程式設計學習資源：互動式程式學習設計
 

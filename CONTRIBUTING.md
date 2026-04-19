@@ -57,4 +57,4 @@ See [Translations](TRANSLATIONS.md).
 * Submit a pull request with changes to the file in that language. Each language has a maintainer, who reviews changes in that language. Then the primary maintainer [@donnemartin](https://github.com/donnemartin) merges it in.
 * Prefix pull requests and issues with language codes if they are for that translation only, e.g. "es: Improve grammar", so maintainers can find them easily.
 * Tag the translation maintainer for a code review, see the list of [translation maintainers](TRANSLATIONS.md).
-    * You will need to get a review from a native speaker of that language as well as from the primary maintainer [@donnemartin](https://github.com/donnemartin).
+    * You will need to get a review from a native speaker of that language before the pull request can be merged.

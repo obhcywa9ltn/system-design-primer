@@ -3,10 +3,9 @@
 > * 译者：[XatMassacrE](https://github.com/XatMassacrE)、[L9m](https://github.com/L9m)、[Airmacho](https://github.com/Airmacho)、[xiaoyusilen](https://github.com/xiaoyusilen)、[jifaxu](https://github.com/jifaxu)、[根号三](https://github.com/sqrthree)
 > * 这个到 README.md 发生变化，那就意味着这份翻译文档是最新的）。
 
-*[English](README.md) ∙ [日本語](README-ja.md) ∙ [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Português节，面试中出现频率最高。 -->
+<!-- 节，面试中出现频率最高。 -->
 
-<p align="center">
-  <img src="images/jj3A5N8.png">
+*[English](README.md) ∙ [日本語](README-ja.md) ∙ [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/jj3A5N8.png">
   <br/>
 </p>
 

@@ -1,12 +1,11 @@
-**[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170](https://github.com/design-design-primer/) ∙./tin/system-design-tin--primer [Español](https://ภาษาไทย](https/187) ∙ [primer/issues/250) | [Add Translation](https://github
+**[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md)**
 
-# 系統設>
-  <br/>
+# 系統設計入門
 </p>
 
 ## 學習如何設計大型系統。
->
->面試。
+
+準備系統設計的面試。
 
 ### 學習如何設計大型系統
 
